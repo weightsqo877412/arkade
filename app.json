@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/weightsqo877412/arkade",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
